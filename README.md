@@ -1,0 +1,104 @@
+# 🍽️ Swiggy Data Analytics & Restaurant Rating Prediction
+
+## 📌 Project Overview
+
+This project demonstrates an end-to-end **Data Analytics** workflow using the Swiggy dataset. It covers database design, business analysis, interactive dashboards, and a machine learning model for restaurant rating prediction.
+
+---
+
+## 🎯 Objectives
+
+- Analyze restaurant and order data
+- Build an interactive Power BI dashboard
+- Generate business insights using KPIs
+- Predict whether a restaurant is highly rated using Machine Learning
+
+---
+
+## 🛠️ Tech Stack
+
+- MySQL
+- Power BI
+- Python
+- Pandas
+- NumPy
+- Scikit-learn
+
+---
+
+## 📊 Dashboard Pages
+
+### 1. Executive Overview
+- Revenue
+- Orders
+- Customers
+- Average Order Value
+
+### 2. User Analysis
+- Sales by Gender
+- Sales by Occupation
+- Sales by Age Group
+
+### 3. City Analysis
+- Revenue by City
+- Restaurant Distribution
+- Order Trends
+
+### 4. Restaurant Performance
+- Top Restaurants
+- Cuisine Analysis
+- Restaurant Ratings
+
+### 5. Business Insights
+- Key KPIs
+- Trends
+- Recommendations
+
+---
+
+## 🤖 Machine Learning
+
+### Problem Statement
+
+Predict whether a restaurant is **High Rated** or **Low Rated**.
+
+### Features Used
+
+- Country
+- City
+- Cuisine
+- Rating Count
+
+### Model
+
+- Random Forest Classifier
+
+### Current Results
+
+| Metric | Score |
+|--------|-------:|
+| Accuracy | 60.37% |
+| Precision | 61.01% |
+| Recall | 61.44% |
+| F1 Score | 61.23% |
+
+---
+
+## 📂 Project Structure
+
+```text
+Data/
+PowerBI_Dashboard_Images
+Machine_Learning/
+README.md
+requirements.txt
+```
+
+---
+
+## 🚀 Future Improvements
+
+- Feature engineering using SQL joins
+- Additional ML models (XGBoost, LightGBM)
+- Hyperparameter tuning
+- Power BI dashboard enhancements
