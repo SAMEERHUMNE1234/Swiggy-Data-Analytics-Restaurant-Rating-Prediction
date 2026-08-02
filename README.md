@@ -28,33 +28,58 @@ This project demonstrates an end-to-end **Data Analytics** workflow using the Sw
 
 ## 📊 Dashboard Pages
 
-### 1. Executive Overview
-- Revenue
-- Orders
-- Customers
+## 1️⃣ Executive Overview
+
+![Overview](01_Overview.png)
+
+### Highlights
+- Total Sales
+- Total Orders
+- Total Users
 - Average Order Value
+- Food Category Performance
+- Monthly Sales Trend
 
-### 2. User Analysis
+## 2️⃣ User Performance Dashboard
+
+![User Performance](02_User_Performance.png)
+
+### Highlights
+- User Distribution by Age
 - Sales by Gender
-- Sales by Occupation
-- Sales by Age Group
+- Occupation Analysis
+- Year-wise Sales Comparison
 
-### 3. City Analysis
+## 3️⃣ City Overview Dashboard
+
+![City Overview](03_City_Overview.png)
+
+### Highlights
 - Revenue by City
-- Restaurant Distribution
-- Order Trends
+- Orders by City
+- Rating Count
+- Interactive City Map
 
-### 4. Restaurant Performance
-- Top Restaurants
+## 4️⃣ Restaurant Overview Dashboard
+
+![Restaurant Overview](04_Restaurant_Overview.png)
+
+### Highlights
+- Restaurant Distribution
 - Cuisine Analysis
 - Restaurant Ratings
+- Top Performing Restaurants
 
-### 5. Business Insights
-- Key KPIs
-- Trends
-- Recommendations
+## 5️⃣ Business Insights
 
----
+![Insights](05_Insights.png)
+
+### Key Insights
+- Top performing cities
+- Customer purchasing behaviour
+- Restaurant performance
+- Revenue opportunities
+- Business recommendations
 
 ## 🤖 Machine Learning
 
