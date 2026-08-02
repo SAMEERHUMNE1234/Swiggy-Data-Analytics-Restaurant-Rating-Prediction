@@ -30,7 +30,7 @@ This project demonstrates an end-to-end **Data Analytics** workflow using the Sw
 
 ## 1️⃣ Executive Overview
 
-![Overview](Images/01_Overview.png)
+![Overview](IImages/01_Overview.png)
 
 ### Highlights
 - Total Sales
@@ -42,7 +42,7 @@ This project demonstrates an end-to-end **Data Analytics** workflow using the Sw
 
 ## 2️⃣ User Performance Dashboard
 
-![User Performance](Images/02_User_Performance.png)
+![User Performance](IImages/02_User_Performance.png)
 
 ### Highlights
 - User Distribution by Age
@@ -52,7 +52,7 @@ This project demonstrates an end-to-end **Data Analytics** workflow using the Sw
 
 ## 3️⃣ City Overview Dashboard
 
-![City Overview](Images/03_City_Overview.png)
+![City Overview](IImages/03_City_Overview.png)
 
 ### Highlights
 - Revenue by City
@@ -62,7 +62,7 @@ This project demonstrates an end-to-end **Data Analytics** workflow using the Sw
 
 ## 4️⃣ Restaurant Overview Dashboard
 
-![Restaurant Overview](Images/04_Restaurant_Overview.png)
+![Restaurant Overview](IImages/04_Restaurant_Overview.png)
 
 ### Highlights
 - Restaurant Distribution
@@ -72,7 +72,7 @@ This project demonstrates an end-to-end **Data Analytics** workflow using the Sw
 
 ## 5️⃣ Business Insights
 
-![Insights](Images/05_Insights.png)
+![Insights](IImages/05_Insights.png)
 
 ### Key Insights
 - Top performing cities
