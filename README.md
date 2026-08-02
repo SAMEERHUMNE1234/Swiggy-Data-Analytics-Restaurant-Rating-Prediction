@@ -30,7 +30,8 @@ This project demonstrates an end-to-end **Data Analytics** workflow using the Sw
 
 ## 1️⃣ Executive Overview
 
-![Overview](01_Overview.png)
+![Overview](IImages/01_Overview.png)
+
 
 ### Highlights
 - Total Sales
