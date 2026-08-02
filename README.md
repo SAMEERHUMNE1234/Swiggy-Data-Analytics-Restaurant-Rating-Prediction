@@ -42,7 +42,7 @@ This project demonstrates an end-to-end **Data Analytics** workflow using the Sw
 
 ## 2️⃣ User Performance Dashboard
 
-![User Performance](IImages/02_User_Performance.png)
+![User Performance](IImages/02_User_Performance..png)
 
 ### Highlights
 - User Distribution by Age
